@@ -1,0 +1,357 @@
+@media only screen and (max-width: 768px){
+  .btn{
+    width: 15%;
+    background-color: white;
+    border: none;
+  }
+  
+  .accordion-header img{
+    margin-top: -20px;
+  }
+
+  .output h1{
+  font-size: 20px;
+  margin-left: 100px;
+  margin-top: -30px;
+  }
+
+  #input img{
+  width: 10%;
+  margin-left: 250px;
+  margin-top: -60px;
+  }
+
+  .home img{
+   margin-top: 90px;
+  }
+
+  .rout h3{
+   font-size: 30px;
+   text-align: center;
+   margin-top: 10px;
+  }
+
+  .rout{
+    border: 3px solid blue;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    margin-top: -10px;
+  }
+
+  .card input{
+   width: 240px;
+   border: 3px solid;
+   margin-top: 10px;
+  }
+
+  .card-1 input{
+    width: 140px;
+    margin-left: 50px;
+    border: 3px solid;
+    margin-top: -320px;
+   }
+
+  .card a{
+    text-decoration:  none;
+    margin-left: 240px;
+    margin-top: -32px;
+    border: 3px solid;
+    width: 80px;
+    background-color: black;
+    color: white;
+    padding: 2px;
+  }
+
+  .card button{
+    background-color: blueviolet;
+    width: 70px;
+  }
+  
+  .card button:hover{
+    color: white;
+  }
+
+  .w-120{
+    border: 5px solid;
+    background-color: green;
+    font-size: 20px;
+    margin-top: 30px;
+    border: none;
+    height: 15vh;
+  }
+
+  .w-120 h1{
+    font-size: 20px;
+    padding: 20px;
+    margin-top: -20px;
+  }
+
+  .w-120 h4{
+  font-size: 10px;
+  padding: 20px;
+  margin-top: -40px;
+  }
+
+  .w-120 h3{
+    margin-left: 200px;
+    margin-top: -80px;
+  }
+
+  .w-100{
+    height: 40vh;
+    margin-top: 10px;
+  }
+
+  .store{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+  }
+
+  .closs{
+    margin-top: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.685);
+    margin-left: 20px;
+    text-align: center;
+  }
+
+  .closs:hover{
+    background-color: grey;
+  }
+
+  .closs h1{
+    font-size: 10px;
+    margin-top: 10px;
+    font-weight: bolder;
+  }
+
+  .closs1{
+    margin-top: 28px;
+    border: 1px solid rgba(255, 255, 255, 0.685);
+    margin-left: 20px;
+    text-align: center;
+  }
+
+  .closs1:hover{
+    background-color: grey;
+  }
+
+  .closs1 h1{
+    font-size: 10px;
+    margin-top: 10px;
+    font-weight: bolder;
+  }
+
+  .closs2{
+    margin-top: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.685);
+    margin-left: 15px;
+    text-align: center;
+  }
+
+  .closs2:hover{
+    background-color: grey;
+  }
+
+  .closs2 h1{
+    font-size: 10px;
+    margin-top: 10px;
+    font-weight: bolder;
+  }
+
+  .ut{
+    border: 2px solid;
+    padding: 8px;
+    border: none;
+    background-color: gray;
+  }
+
+  .tips img{
+    margin-left: 8px;
+    margin-top: -20px;
+  }
+
+  .tips{
+    border: 2px solid;
+    background-color: red;
+    border:  none;
+    padding: 37px;
+  }
+
+  .tips h3{
+    margin-left: 70px;
+    margin-top: -49px;
+  }
+
+  .tips p{
+    margin-left: 200px;
+    margin-top: -30px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .hero{
+    border: 2px solid;
+    background-color: red;
+  }
+
+  .hero h3{
+    margin-left: 40px;
+    margin-top: -30px;
+    color: white;
+  }
+
+  .hero p{
+    margin-left: 220px;
+    margin-top: -30px;
+    color: white;
+    font-weight: bold;
+  }
+
+  .clock span{
+    font-size: 20px;
+    width: 110px;
+    text-align: center;
+
+  }
+
+  .ti{
+    margin-left: 80px;
+  }
+
+  .noy h4{
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px solid gray;
+    padding: 10px;
+
+    width: 129%;
+  }
+
+  .noy h4{
+    border: 1px solid gray;
+    padding: 10px;
+    margin-left: 70px;
+    width: 82%;
+  }
+
+  .noy a{
+    text-decoration: none;
+    color: black;
+    
+  }
+  
+  .vot h2{
+    font-size: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 83px;
+  }
+
+  .vot img{
+  margin-top: 13px;
+  margin-left: 80PX;
+  }
+  
+  .vot h3{
+    margin-left: 117px;
+    margin-top: -23px;
+    font-size: 13px;
+  }
+
+  .cot img{
+    margin-left: 82px;
+    margin-top: 32px;
+  }
+
+  .not img{
+    margin-top: 25px;
+  }
+
+  .aries img{
+   margin-top: 25px;
+   margin-bottom: 2px;
+  }
+
+  .aries{
+    border-bottom: 2px solid;
+    width: 106%;
+    margin-top: 10px;
+  }
+
+  .tron{
+    display: flex;
+  }
+
+  .ck h1{
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 77.4px;
+    margin-top: 4px;
+  }
+
+  .ck a{
+    margin-left: 208px;
+    margin-top: 0px;
+    text-decoration: none;
+    
+  }
+
+  .bt img{
+    margin-left: -6px;
+  }
+
+  .bt h3{
+    margin-top: -32px;
+  }
+
+  .offcanvas-header{
+    width: 90%;
+  }
+
+  .offcanvas-start{
+    margin-left: -90px;
+  }
+
+  .tyhr input{
+    margin-top: -60px;
+    margin-left: 40vw;
+  }
+  
+  .got a{
+    margin-left: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: chocolate;
+    line-height: 30px;
+  }
+  
+
+  .got a:hover{
+    color: black;
+  }
+
+  .diaglog{
+    border: 3px solid;
+    
+  }
+    
+  div.scrollmenu {
+    display: flex;
+    gap: 20px;
+    overflow: auto;
+    white-space: nowrap;
+  }
+
+  .scrollmenu img{
+    border: 1px solid white;
+    box-shadow: 10px 10px 10px 10px ;
+  }
+  
+  }
+
+ 
+  
+ 
